@@ -1,4 +1,4 @@
-#Exercice 6
+#Exercice 4
 ##Donnée :
 P = 60 kW = 60 000 W
 N = 3500 tr/min
